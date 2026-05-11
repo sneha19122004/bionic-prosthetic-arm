@@ -99,7 +99,7 @@ Print all `.stl` files in PLA or PETG. Recommended settings: 20% infill, 0.2 mm 
 4. **Select your board** under Tools → Board, then upload.
 
 5. **Print the models** and assemble per the wiring diagram.
-
+[▶ Watch Demo](https://github.com/sneha19122004/bionic-prosthetic-arm/blob/master/final-outcome.mp4)
 ---
 
 ## License
