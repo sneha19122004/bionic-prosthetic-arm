@@ -113,4 +113,4 @@ Print all `.stl` files in PLA or PETG. Recommended settings: 20% infill, 0.2 mm 
 
 ## License
 
-MIT License — see `LICENSE` for details.
+MIT License — see [LICENSE](LICENSE) for details.
